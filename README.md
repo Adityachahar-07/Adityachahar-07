@@ -34,6 +34,6 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/KaranRathore05"><img src="https://img.shields.io/github/followers/KaranRathore05?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/karan-rathore-9a448a302/"><img src="https://img.shields.io/badge/LinkedIn-Karanpal%20Singh-blue?logo=linkedin"></a>
+  <a href="https://github.com/Adityachahar-07"><img src="https://img.shields.io/github/followers/KaranRathore05?label=GitHub&style=social"></a>
+  <a href="https://www.linkedin.com/in/aditya-chahar-284572343/"><img src="https://img.shields.io/badge/LinkedIn-Karanpal%20Singh-blue?logo=linkedin"></a>
 </p>
