@@ -35,5 +35,5 @@
 
 <p align="center">
   <a href="https://github.com/Adityachahar-07"><img src="https://img.shields.io/github/followers/KaranRathore05?label=GitHub&style=social"></a>
-  <a href="https://www.linkedin.com/in/aditya-chahar-284572343/"><img src="https://img.shields.io/badge/LinkedIn-Karanpal%20Singh-blue?logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/aditya-chahar-284572343/"><img src="https://img.shields.io/badge/LinkedIn-ADITYA_CHAHAR-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Faditya-chahar-284572343%2F"></a>
 </p>
