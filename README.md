@@ -24,7 +24,7 @@
 
 ### 🧠 Current Focus
 
-- 📚 Practicing **Data Structures & Algorithms** on [LeetCode](https://github.com/KaranRathore05/100-Days-of-LeetCode)
+- 📚 Practicing **Data Structures & Algorithms** on [LeetCode](https://leetcode.com/u/Aditya_chahar_/)
 - 🤖 Exploring **Machine Learning** with Python libraries:
   - `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`
 - ⚙️ Building real-world **Full Stack Web Apps** using Node.js and MongoDB
